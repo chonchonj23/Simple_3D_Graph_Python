@@ -1,7 +1,7 @@
 This jupyter notebook contains three simple 3D grpahs plotted via matplotlib in python.
 
 
-Here the most interesting (or arguably most confusing) part is using **numpy.meshgrid** for quickly creating all necessary 3D coordinates in matrices.
+Here the most interesting (or arguably most confusing) part is to use **numpy.meshgrid** for quickly creating all necessary 3D coordinates in matrices.
 For details please see below official documentation:
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.meshgrid.html
 
